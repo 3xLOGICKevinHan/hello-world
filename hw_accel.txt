@@ -1,0 +1,117 @@
+Last Updated: 2017-06-20 14:37:36
+CPU Usage: 5
+Cameras Total:0
+Image Size Total: 0.000 MegaPixel Per Second
+Bitrate Total: 20.615Mbps
+Live Video
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 124.2ms / Displayed: 65.4ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 529ms / Displayed: 467ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 86.7ms / Displayed: 64.4ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 337ms / Displayed: 455ms
+        Interval (Minimum) - Received: 0ms / Displayed: 1ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 87.3ms / Displayed: 65.7ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 438ms / Displayed: 438ms
+        Interval (Minimum) - Received: 0ms / Displayed: 1ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 86.9ms / Displayed: 65.6ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 416ms / Displayed: 454ms
+        Interval (Minimum) - Received: 0ms / Displayed: 2ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 142.7ms / Displayed: 64.4ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 610ms / Displayed: 390ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 89.2ms / Displayed: 60.7ms
+        Interval (Maximum) - Received: 466ms / Displayed: 327ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 91.1ms / Displayed: 64.3ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 483ms / Displayed: 463ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 93.8ms / Displayed: 65.6ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 495ms / Displayed: 441ms
+        Interval (Minimum) - Received: 0ms / Displayed: 1ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 96.8ms / Displayed: 65.6ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 504ms / Displayed: 388ms
+        Interval (Minimum) - Received: 1ms / Displayed: 2ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 100.8ms / Displayed: 64.7ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 512ms / Displayed: 469ms
+        Interval (Minimum) - Received: 1ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 104.7ms / Displayed: 65.9ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 526ms / Displayed: 431ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 109.9ms / Displayed: 65.0ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 539ms / Displayed: 446ms
+        Interval (Minimum) - Received: 0ms / Displayed: 2ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 114.4ms / Displayed: 65.2ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 540ms / Displayed: 458ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 120.6ms / Displayed: 64.5ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 549ms / Displayed: 459ms
+        Interval (Minimum) - Received: 0ms / Displayed: 4ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 125.5ms / Displayed: 65.6ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 556ms / Displayed: 453ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
+    DL215-10 - Cam11
+        FPS - Server Processed: 8.0 / Requested: Maximum / Received: 8.0 / Displayed: 8.0
+        Standard deviation - Received: 131.5ms / Displayed: 65.3ms
+        Warning: Uneven frame interval
+        Interval (Maximum) - Received: 568ms / Displayed: 457ms
+        Interval (Minimum) - Received: 0ms / Displayed: 3ms
+        Bitrate: 1351.0Kbps
