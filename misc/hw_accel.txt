@@ -1,4 +1,4 @@
-Last Updated: 2017-06-20 14:37:36asfasdf
+Last Updated: 2017-06-20 14:37:36
 CPU Usage: 5
 Cameras Total:0
 Image Size Total: 0.000 MegaPixel Per Second
