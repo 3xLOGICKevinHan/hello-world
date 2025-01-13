@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("hello world from debian\n");
+    printf("hello world from bookworm\n");
 
     return 0;
 }
